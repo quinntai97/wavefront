@@ -1,0 +1,15 @@
+/****************************************************************************
+*   This software was written in its entirety by John Palmisano.
+*   Copyright (c) 2007 http://www.societyofrobots.com/
+*   (please link back if you use this code!)
+*
+*   This program is free software; you can redistribute it and/or modify
+*   it under the terms of the GNU General Public License version 2 as
+*   published by the Free Software Foundation.
+*
+*   Alternatively, this software may be distributed under the terms of BSD
+*   license.
+*
+*	August 28th, 2007
+*
+****************************************************************************/
